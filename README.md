@@ -26,10 +26,15 @@ Este não é um repositório tradicional de código.
 Você encontrará:
 
 – experimentos cognitivos
+
 – protótipos funcionais
+
 – decisões técnicas documentadas
+
 – falhas e aprendizados
+
 – prompts estruturados como sistemas
+
 – arquiteturas de pensamento aplicadas
 
 Cada projeto é um laboratório.
@@ -120,8 +125,11 @@ Em vez de tentar “corrigir” a IA,
 o projeto propõe separar:
 
 – geração
+
 – validação
+
 – consciência de incerteza
+
 
 Resultado:
 
@@ -159,18 +167,26 @@ Acesse os diretórios `tech-as-*` e veja como cada relação se materializa.
 Entre em um projeto específico e acompanhe:
 
 – problema
+
 – hipótese
+
 – construção
+
 – testes
+
 – aprendizado
+
 
 ---
 
 ## 🚫 O que este repositório não é
 
 ❌ Não é um portfólio tradicional
+
 ❌ Não é um repositório de código completo
+
 ❌ Não busca eficiência máxima
+
 
 Este espaço existe para explorar limites — não para escondê-los.
 
